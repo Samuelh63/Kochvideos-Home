@@ -24,7 +24,7 @@ function applySeasonTheme() {
             kategorienh1.style.backgroundImage = "url('Logo.png'), linear-gradient(to top, transparent 0%, #FF8000 50%)"; // Frühling: orange für den Gradient
             break;
         case 'summer':
-            video.src = "Sommervideo.mp4";  // Beispiel für Sommer
+            video.src = "Sommer.mp4";  // Beispiel für Sommer
             kategorienh1.style.backgroundImage = "url('Logo.png'), linear-gradient(to top, transparent 0%, #006600 50%)"; // Sommer: Grün für den Gradient
             break;
         case 'autumn':
